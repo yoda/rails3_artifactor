@@ -9,7 +9,7 @@ begin
     gem.authors = ["Kristian Mandrup"]
     gem.add_development_dependency "rspec", ">= 2.0"
 
-    gem.add_dependency "rspec",             ">= 2.0.0"
+    gem.add_dependency "rspec"
     gem.add_dependency "require_all",       "~> 1.2.0"
     gem.add_dependency "sugar-high",        "~> 0.3.0"
     gem.add_dependency 'rails3_assist',     "~> 0.3.0"
